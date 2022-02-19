@@ -1,0 +1,5 @@
+DICCIONARIO DE DATOS - DATASET JNE,,
+ATRIBUTO (nombre del campo),CAMPO (descripcion del campo),TIPO DE CAMBO (tipo de datos)
+Nombre,Nombre de los integrantes del comit‚ de selecci¢n de las adjudicaciones,texto
+Informe,Cantidad de informes de control donde se encuentra dicha persona,numero
+region,Region de procedencia de las personas ,texto
