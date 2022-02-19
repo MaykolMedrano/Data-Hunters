@@ -1,0 +1,7 @@
+DICCIONARIO DE DATOS - DATASET JNE,,
+ATRIBUTO (nombre del campo),CAMPO (descripcion del campo),TIPO DE CAMBO (tipo de datos)
+cui,Codigo Unico de Inversi¢n,numero
+nombre_pip,Nombre del proyecto de inversion publica,texto
+monto_inversion,Monto de la inversion aprobada del proyecto de inversion publica ,numero
+monto_actualizado,Monto de la ultima actualizacion del proyecto de inversion publica,numero
+fecha_ultimamodificacion,fecha de la ultima actualizacion del monto de la inversion publica,fecha
