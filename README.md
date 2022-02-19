@@ -1,4 +1,11 @@
 # DATA HUNTERS
+## Team
+<ul>
+  <li>Juliana Margaret Rojas Guillen       | email:juliana.rojas@pucp.pe</li>
+  <li>Annagrazia Fiorella Cotrina Pegorari | email:acotrinapegorari@gmail.com </li>
+  <li>Jelsin S. Palomino Huaytapuma        | email:jstpalomino@hotmail.com </li>
+  <li>Maykol Medrano Ccahuana              | email:maykolmedrano35@gmail.com</li>
+ </ul>
 
 ## DSRP | "Dataton por la Integridad y Lucha contra la Corrupción en Obras Públicas"
 ### Desafío
