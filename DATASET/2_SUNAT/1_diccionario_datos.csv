@@ -1,0 +1,11 @@
+DICCIONARIO DE DATOS - DATASET DATOS RUC SUNAT,,
+,,
+ ATRIBUTO (NOMBRE DEL CAMPO),CAMPO (DESCRIPCIÓN DEL CAMPO),TIPO CAMPO (TIPO DE DATOS)
+ruc_proveedor,RUC del proveedor (Persona Juridica y Consorcios),Texto
+ruc_nombre,RUC y nombre registrado en SUNAT,Texto
+dni,Documento Nacional de indentidad degistrado en SUNAT,Texto
+fecha_inscripcion,Fecha de inscripción en SUNAT,Texto
+estado_contribuyente,Estado del contribuyente,Texto
+condicion_contribuyente,Condición del contribuyente,Texto
+direccion,Direccion registrada en SUNAT,Texto
+actividades,Actividades registradas en SUNAT,Texto
