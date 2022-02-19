@@ -1,6 +1,6 @@
 # DSRP | "Dataton por la Integridad y Lucha contra la Corrupción en Obras Públicas"
 
-## NOMBRE DE EQUIPO : **DATA HUNTERS**
+## Nombre de equipo : **DATA HUNTERS**
 
 ## Team
 <ul>
