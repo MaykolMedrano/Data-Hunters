@@ -1,0 +1,5 @@
+2_ods_odb_osce_regiones_2019:
+
+formato de archivo : .dta
+link de descarga   : https://drive.google.com/file/d/1EpcCXYz92VfhWyeAoTNwQdudUuVZrJAc/view?usp=sharing 
+
