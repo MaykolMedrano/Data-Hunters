@@ -17,6 +17,19 @@ El objetivo de esta etapa es que en conjunto los equipos puedan identificar las 
 
 ¿Sabías que el perjuicio económico  al Estado peruano producto de la corrupción es de 625 millones de dólares en el año 2021? De acuerdo a la Contraloria General de la República halló que 7.740 funcionarios cometieron presuntos actos de corrupción en 2021. (https://www.sandiegouniontribune.com/en-espanol/noticias/story/2022-01-11/peru-casi-8-000-funcionarios-ligados-a-corrupcion-en-2021)
 
+### ¿Cómo lo hicimos? | ESTRATEGIA
+
+1.Identificación de instituciones públicas que cuentan con datos relacionados a las compras públicas en el país
+2.Identificación de Bases de Datos que contengan información útil  
+3.Identificación de categorías relevantes de cada base de datos. (
+4.Obtención de las Bases de Datos
+ * Consultas al Portal de Datos Abiertos
+ * Descarga de Data Sets Públicos (CONOSCE, MEF, JNE)
+ * Web scraping (SSI, SUNAT, CONTRALORIA)
+ * Acceso a la Información Pública (SUNAT)
+5. Organizar los dataset.
+
+
 
 
 
