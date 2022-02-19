@@ -11,3 +11,14 @@ El objetivo de esta etapa es que en conjunto los equipos puedan identificar las 
  <p align="center">
   <img width="600" src='https://miro.medium.com/max/1400/1*CxVccbFGtv6W2qlq0A4hxw.png'>
 </p>
+
+### Reto identificado
+#### **¿Cuáles son los patrones que denoten presuntos actos de corrupción en las instituciones públicas del Perú?**
+
+¿Sabías que el perjuicio económico  al Estado peruano producto de la corrupción es de 625 millones de dólares en el año 2021? De acuerdo a NElson Shak, Contralor General de la República la contraloria  halló que 7.740 funcionarios cometieron presuntos actos de corrupción en 2021.
+
+
+
+
+
+
