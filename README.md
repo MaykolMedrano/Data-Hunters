@@ -19,7 +19,7 @@ El objetivo de esta etapa es que en conjunto los equipos puedan identificar las 
 
 ### ¿Cómo lo hicimos? | ESTRATEGIA
 
-<ul>
+<ol>
 <li> -1.Identificación de instituciones públicas que cuentan con datos relacionados a las compras públicas en el país. </li>
 <li> -2.Identificación de Bases de Datos que contengan información útil. </li> 
 <li> -3.Identificación de categorías relevantes de cada base de datos. </li>
@@ -29,7 +29,7 @@ El objetivo de esta etapa es que en conjunto los equipos puedan identificar las 
  <li> * Web scraping (SSI, SUNAT, CONTRALORIA). </li>
  <li>* Acceso a la Información Pública (SUNAT). </li>
 <li> -5. Organizar los dataset. </li>
-</ul>
+</ol>
 
 
 
