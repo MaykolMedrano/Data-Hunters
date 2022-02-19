@@ -1,0 +1,18 @@
+DICCIONARIO DE DATOS - DATASET JNE,,
+ATRIBUTO (nombre del campo),CAMPO (descripcion del campo),TIPO DE CAMBO (tipo de datos)
+cui,Codigo Unico de Inversi¢n,numero
+nombre_pip,Nombre del proyecto de inversion publica,texto
+funcion,Sector al que pertenece el proyecto de inversion,texto
+division_funcional,Sector al que pertenece el proyecto de inversion,texto
+grupo_funcional,Sector al que pertenece el proyecto de inversion,texto
+sector_responsable,Sector responsable del proyecto de inversion ,texto
+brechas,Brechas sociales que identifico el proyecto a cerrar,numero
+opmi,Oficina de Programaci¢n Multianual de Inversion,texto
+uf,Unidad Formuladora,texto
+uei,Unidad de Ejecuci¢n de la Inversion,texto
+uep,Unidad Ejecutora Presupuestal,texto
+gps,El punto GPS donde se ubica la ejecuci¢n del proyecto de inversion,numero
+departamento,Departamento donde se ejecuta el proyecto de inversion publica,texto
+provincia,Provincia done se ejecuta el proyecto de inversion publica,texto
+distrito,Distrito donde se ejecuta el proyecto de inversion publica,texto
+centro_poblado,Centro poblado donde se ejecuta el proyecto de inversion publica,texto
