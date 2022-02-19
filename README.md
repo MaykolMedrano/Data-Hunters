@@ -9,5 +9,5 @@ El objetivo de esta etapa es que en conjunto los equipos puedan identificar las 
 
 
  <p align="center">
-  <img width="460" src='https://miro.medium.com/max/1400/1*CxVccbFGtv6W2qlq0A4hxw.png'>
+  <img width="600" src='https://miro.medium.com/max/1400/1*CxVccbFGtv6W2qlq0A4hxw.png'>
 </p>
