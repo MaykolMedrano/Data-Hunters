@@ -25,10 +25,10 @@ El objetivo de esta etapa es que en conjunto los equipos puedan identificar las 
 <li> -3.Identificación de categorías relevantes de cada base de datos. </li>
 <li> -4.Obtención de las Bases de Datos. </li>
  <ul>
-  <li> * Consultas al Portal de Datos Abiertos. </li>
-  <li> * Descarga de Data Sets Públicos (CONOSCE, MEF, JNE). </li>
-  <li> * Web scraping (SSI, SUNAT, CONTRALORIA). </li>
-  <li>* Acceso a la Información Pública (SUNAT). </li>
+  <li> Consultas al Portal de Datos Abiertos. </li>
+  <li> Descarga de Data Sets Públicos (CONOSCE, MEF, JNE). </li>
+  <li> Web scraping (SSI, SUNAT, CONTRALORIA). </li>
+  <li> Acceso a la Información Pública (SUNAT). </li>
  </ul>
 <li> -5. Organizar los dataset. </li>
 </ol>
