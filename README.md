@@ -19,6 +19,10 @@ El objetivo de esta etapa es que en conjunto los equipos puedan identificar las 
 
 ### ¿Cómo lo hicimos? | ESTRATEGIA
 
+
+
+
+<ul>
 -1.Identificación de instituciones públicas que cuentan con datos relacionados a las compras públicas en el país
 -2.Identificación de Bases de Datos que contengan información útil  
 -3.Identificación de categorías relevantes de cada base de datos. (
@@ -29,9 +33,7 @@ El objetivo de esta etapa es que en conjunto los equipos puedan identificar las 
  * Acceso a la Información Pública (SUNAT)
 -5. Organizar los dataset.
 
-
-
-
+</ul>
 
 
 
