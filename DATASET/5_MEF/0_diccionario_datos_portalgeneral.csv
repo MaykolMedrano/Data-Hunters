@@ -1,0 +1,36 @@
+DICCIONARIO DE DATOS - DATASET JNE,,
+ATRIBUTO (nombre del campo),CAMPO (descripcion del campo),TIPO DE CAMBO (tipo de datos)
+codigo_unico,Codigo Unico de Inversi¢n,numero
+snip,Codigo SNIP,numero
+fecha_registro,fecha del registro del proyecto,fecha
+nombre_inversion,Nombre del proyecto de inversion publica,texto
+estado,Estado del proyecto,texto
+tipo_inversion,"Tipo de proyecto: proyectos de inversion, IOARR, FUR y proyectos no inscritos para el caso de nuestra base solo extrajimos los proyectos inscritos",texto
+programa_pmi,existe en el programa multianual de la inversion,texto
+ompi,Oficina de Programaci¢n Multianual de Inversiones,texto
+uf,Unidad Formuladora,texto
+uei,Unidad de Ejecuci¢n de la Inversion,texto
+situacion,Situaci¢n  en la que se encuentra el proyecto,texto
+decreto_emergencia,Posee algun decreto de emergencia,texto
+cadena_funcional,El sector al que pertenece el proyecto de inversion,texto
+viabilidad_aprobacion,fecha que se aprobo la viabilidad del proyecto,texto
+costo_aprobado,Costo aprobado del proyecto,numero
+beneficiarios,Cantidad de beneficiarios del proyecto,numero
+expediente_tecnico,Posee expediente tecnico,texto
+reg_seguimiento,Posee registro de seguimiento,texto
+inicio_ejecucion,Fecha del inicio de ejecuci¢n del proyecto,fecha
+fin_ejecucion,Fecha del fin de la ejecuci¢n del proyecto,fecha
+inversion_actualizado,Monto de la inversi¢n actualizada del proyecto de inversion,numero
+sol_controversias,Monto destinado en el proyecto de inversion publica para la soluci¢n de controversias,numero
+carta_fianza,Existe carta fianza del proyecto de inversion publica,texto
+inver_total,Monto de la inversion total ,numero
+costo_inversion,Monto del costo de inversion ,numero
+devengado_acumulado,Monto del devengado acumulado desde la fecha de ejecuci¢n del proyecto de inversion publica,numero
+avance_financiero_acum,% del avance ,porcentaje
+saldo,Monto faltante para completar la inversion ,numero
+fecha_primerdevengado,Fecha del primer devengado del proyecto de inversion,fecha
+fecha_ultimodevengado,Fecha del ultimo devengado que corresponde al proyecto de inversion ,fecha
+seaceobra,informaci¢n sobre las contrataciones que se generaron para la obra,texto
+seaceconsul,informaci¢n sobre las contrataciones en consultorias para el proyecto,texto
+seacebien,informaci¢n sobre las contrataciones de compras de bienes ,texto
+seaceserv,informaci¢n sobre las contrataciones de servicios ,texto
