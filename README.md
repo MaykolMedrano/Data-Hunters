@@ -4,10 +4,10 @@
 
 ## Team
 <ul>
-  <li>Juliana Margaret Rojas Guillen       | email:juliana.rojas@pucp.pe</li>
-  <li>Annagrazia Fiorella Cotrina Pegorari | email:acotrinapegorari@gmail.com </li>
-  <li>Jelsin S. Palomino Huaytapuma        | email:jstpalomino@hotmail.com </li>
-  <li>Maykol Medrano Ccahuana              | email:maykolmedrano35@gmail.com</li>
+  <li>Juliana Margaret Rojas Guillen       | email: juliana.rojas@pucp.pe</li>
+  <li>Annagrazia Fiorella Cotrina Pegorari | email: acotrinapegorari@gmail.com </li>
+  <li>Jelsin S. Palomino Huaytapuma        | email: jstpalomino@hotmail.com </li>
+  <li>Maykol Medrano Ccahuana              | email: maykolmedrano35@gmail.com</li>
  </ul>
 
 ### Desafío
