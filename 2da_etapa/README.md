@@ -54,25 +54,27 @@
 #### Secontrola.pe
 #### Buscador de informes de control 
 <br>
-Portal ciudadano para identificar y realizar de forma fácil y rápida el seguimiento de informes de control especifico y a funcionarios públicos vinculados a hechos con presuntas irregularidades contra el Estado peruano.<a href="https://neracs.github.io/secontrola/"> enlace </a> 
+Portal ciudadano para identificar y realizar de forma fácil y rápida el seguimiento de informes de control especifico y a funcionarios públicos vinculados a hechos con presuntas irregularidades contra el Estado peruano.<a href="https://neracs.github.io/secontrola/"> Ver Enlace </a> 
+
 <p align="center">
   <img width="600" src='img/secontrolape.jpg'>
 </p>
 
 <b>Disclaimer: </b> <em>Los datos presentados en este portal web son obtenidos totalmente de entidades del estado peruano y constituyen información de carácter público. La misma que no tiene valor probatório ni legal y tampoco supone atribuir responsabilidad de ningún tipo a ninguna persona por parte del equipo desarrollador.</em>
 
+<b>Estado: </b> <em>En desarrollo</em>
+
 #### Dashboard: Informes de control en el Perú
-El Panel de Informes de control ha sido creado por el Secontrola.pe para realizar seguimiento a los informes de control y su vinculación con las contrataciones, proyectos de inversión, vinculación política y más. <a href="https://app.powerbi.com/view?r=eyJrIjoiMmRiY2M0ODAtYWQxMy00YTY0LThiYmMtNjdiZTBlZDg2NjZjIiwidCI6IjE3OWJkZGE4LWQ5NjQtNDNmZi1hZDNiLTY3NDE4NmEyZmEyOCIsImMiOjR9"> ver App </a>
+El Panel de Informes de control ha sido creado por el Secontrola.pe para realizar seguimiento a los informes de control y su vinculación con las contrataciones, proyectos de inversión, vinculación política y más. <a href="https://app.powerbi.com/view?r=eyJrIjoiMmRiY2M0ODAtYWQxMy00YTY0LThiYmMtNjdiZTBlZDg2NjZjIiwidCI6IjE3OWJkZGE4LWQ5NjQtNDNmZi1hZDNiLTY3NDE4NmEyZmEyOCIsImMiOjR9"> Ver App </a>
 
 <p align="center">
   <img width="600" src='img/dashboard.jpg'>
 </p>
 
-#### Paquete desarrollado: cgr-pdfextract 3.0.10
+#### Paquete desarrollado: <a href="https://pypi.org/project/cgr-pdfextract/"> cgr-pdfextract 3.0.10 </a>
 
 Herramienta para la extracción de datos de los "Informes de Control Posterior" de la Contraloria General de la República" del Perú
-Este paquete consta de dos librerias:
-<a href="https://pypi.org/project/cgr-pdfextract/"> ver paquete </a> 
+Este paquete consta de dos librerias: 
 
 <ul>
 <li>Extrae informacion de un solo archivo del "Informe de Control Posterior" </li>
