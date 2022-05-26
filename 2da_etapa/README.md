@@ -42,9 +42,9 @@
 <li><b> CONSOLIDADO </b></li>
   <br>
  <ul>
-  <li><em>"1_osce_conformacion_juridica_2022.dta"</em>: consolidado con registros de los integrantes de la conformación juridica de los proveedores con el estado </li>
-  <li><em>"2_osce_miembros_comite_2019_2022.dta"</em>: consolidado con los miembros de los comites de selección de las convocatorias realizadas </li>
-  <li><em>"3_jne_movimientos_regionales_2022.dta"</em>: consolidado con registros de las personas que pertenencen a algun movimiento regional</li>
-  <li><em>"4_informes_control_2019_2022.dta"</em>: consolidado de la información de los informes de control con las personas con presuntos actos irregulares hacia el estado.</li>
+  <li><em>"1_osce_conformacion_juridica_2022.csv"</em>: consolidado con registros de los integrantes de la conformación juridica de los proveedores con el estado </li>
+  <li><em>"2_osce_miembros_comite_2019_2022.csv"</em>: consolidado con los miembros de los comites de selección de las convocatorias realizadas </li>
+  <li><em>"3_jne_movimientos_regionales_2022.csv"</em>: consolidado con registros de las personas que pertenencen a algun movimiento regional</li>
+  <li><em>"4_informes_control_2019_2022.csv"</em>: consolidado de la información de los informes de control con las personas con presuntos actos irregulares hacia el estado.</li>
  </ul>
 </ol>
