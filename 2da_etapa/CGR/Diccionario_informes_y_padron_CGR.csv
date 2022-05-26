@@ -1,0 +1,32 @@
+"Diccionario del archivo ""informe_consolidado_nacional.csv"" ",,
+,,
+ATRIBUTO (NOMBRE DEL CAMPO),CAMPO (DESCRIPCION DEL CAMPO),TIPO CAMPO (TIPO DE DATOS)
+regi¢n,Regi¢n donde se realizo el informe de control,texto
+tipodeservicio,tipo de servicio realizado por la CGR,texto
+ndeinforme,Numero de informe o tambi‚n llamado el codigo del informe,texto
+entidad,,
+t¡tulodelinforme,titulo del informe,texto
+evento,informe asociado a algun evento en particular ,texto
+operativo,informe asociado a algun operativo ,texto
+npersonasconpresuntarespons,Numero de personas involucradas con presuntas responsabilidades,numero
+tipoderesponsabilidad,Tipo de responsabilidad ,texto
+fechaemisi¢n,fecha de emision del informe de control,fecha
+fechaconclusi¢n,fecha de conclusion del informe de control ,fecha
+fechapublicaci¢n,fecha de la publicaci¢n del informe de control,fecha
+informe,url del informe completo,texto
+ficharesumen,url del resumen del informe de control,texto
+,,
+,,
+"Diccionario del archivo ""padron_funcionarios_CGR.csv"" ",,
+,,
+ATRIBUTO (NOMBRE DEL CAMPO),CAMPO (DESCRIPCION DEL CAMPO),TIPO CAMPO (TIPO DE DATOS)
+n_informe,Numero de informe ,texto
+objetivo,Objetivo del informe de control ,texto
+entidad_sujeto_a_control,entidad sujeta a control ,texto
+monto_objeto_del_servicio,Monto objeto del servicio,numero
+ubigeo,Ubigeo del informe de control.,texto
+fecha_emision,fecha de emisi¢n del informe ,fecha
+unidad_que_emite,Unidad organica que emite el informe ,texto
+dni,Documento Nacional de Identidad DNI,numero
+nombre,Nombre completo de las personas con presunta responsabilidad,texto
+tipo_acusacion,Cantidad de responsabilidades,numero
