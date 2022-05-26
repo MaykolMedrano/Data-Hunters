@@ -20,20 +20,27 @@
 
 <ol>
 <li><b> CGR | Contraloria General de la República </b></li>
+  <br>
 <ul>
   <li><em>"informes_consolidado_nacional.csv"</em>: datasets que contiene la información de los informes de control posterior en la modalidad ""</li>
   <li><em>"padron_funcionarios_CGR.csv"</em>: datasets que contiene los nombres de las personas involucradas en presuntos actos irregulares contra el gobierno</li>
  </ul>
+  <br>
 <li><b> OSCE | Organo Supervisor de las Contrataciones del Estado </b></li> 
+  <br>
 <ul>
   <li><em>"1_conformacion_juridica_2022.csv"</em>: datasets que contiene la información de la conformación juridica de las empresas proveedoras con el estado</li>
   <li><em>"2_CONOSCE_MIEMBROCOMITE20**_0.xlsx"</em>: datasets que contiene los nombres de las personas que conformaron los miembros de los comites de selección de las convocatorias realizadas por el sector público</li>
  </ul>
+  <br>
 <li><b> JNE | Jurado Nacional de Elecciones </b></li>
+  <br>
 <ul>
   <li><em>"2_registro_movimientos_politicos_2022.csv"</em>: datasets que contiene el registro de las personas afiliadas a algun movimiento politico</li>
  </ul>
+  <br>
 <li><b> CONSOLIDADO </b></li>
+  <br>
  <ul>
   <li><em>"1_osce_conformacion_juridica_2022.dta"</em>: consolidado con registros de los integrantes de la conformación juridica de los proveedores con el estado </li>
   <li><em>"2_osce_miembros_comite_2019_2022.dta"</em>: consolidado con los miembros de los comites de selección de las convocatorias realizadas </li>
