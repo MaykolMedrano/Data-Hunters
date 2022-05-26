@@ -2,21 +2,21 @@
 
 ## Nombre de equipo : **DATA HUNTERS**
 
-### Objetivo planteado
+### I. Objetivo planteado
 <em>Brindar una herramienta que permita a la CGR optimizar sus recursos humanos y capacidades, conociendo un perfil de las necesidades de control existentes..</em>
 
 <p align="center">
   <img width="600" src='img/flujo_datos.png'>
 </p>
 
-### Reto identificado para la 2da etapa:
+### II. Reto identificado para la 2da etapa:
 #### Reto 06
 **¿Cómo podemos ayudar a la vigilancia ciudadana identificando los proyectos de inversión, compras públicas u otras acciones del estado que tienen Informes de Control por parte de la Contraloría General de la República?**
 
 **¿Cómo podemos identificar los proyectos de inversión, compras públicas y otras acciones que tienen informes de control en los que la Contraloría ha identificado posibles responsabilidades administrativas, civiles o penales por parte de los funcionarios o servidores del estado?**
 
 
-### Distribución de los Datasets usados 
+### III. Distribución de los Datasets usados 
 
 <ol>
 <li><b> CGR | Contraloria General de la República </b></li>
@@ -49,10 +49,10 @@
  </ul>
 </ol>
 
-### Productos obtenidos
+### IV. Productos obtenidos
 
-#### Secontrola.pe
-Buscador de informes de control
+** Secontrola.pe**
+** Buscador de informes de control **
 <br>
 Portal ciudadano para identificar y realizar de forma fácil y rápida el seguimiento de informes de control especifico y a funcionarios públicos vinculados a hechos con presuntas irregularidades contra el Estado peruano.
 
