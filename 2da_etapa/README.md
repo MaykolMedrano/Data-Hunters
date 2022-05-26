@@ -6,7 +6,7 @@
 <em>Brindar una herramienta que permita a la CGR optimizar sus recursos humanos y capacidades, conociendo un perfil de las necesidades de control existentes..</em>
 
 <p align="center">
-  <img width="600" src='.img/flujo_datos.png'>
+  <img width="600" src='img/flujo_datos.png'>
 </p>
 
 ### Reto identificado para la 2da etapa:
