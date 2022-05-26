@@ -55,7 +55,7 @@
 #### Buscador de informes de control 
 <br>
 Portal ciudadano para identificar y realizar de forma fácil y rápida el seguimiento de informes de control especifico y a funcionarios públicos vinculados a hechos con presuntas irregularidades contra el Estado peruano.<a href="https://neracs.github.io/secontrola/"> Ver Enlace </a> 
-
+<br>
 <p align="center">
   <img width="600" src='img/secontrolape.jpg'>
 </p>
@@ -64,8 +64,8 @@ Portal ciudadano para identificar y realizar de forma fácil y rápida el seguim
 
 <b>Estado: </b> <em>En desarrollo</em>
 
-#### Dashboard: Informes de control en el Perú
-El Panel de Informes de control ha sido creado por el Secontrola.pe para realizar seguimiento a los informes de control y su vinculación con las contrataciones, proyectos de inversión, vinculación política y más. <a href="https://app.powerbi.com/view?r=eyJrIjoiMmRiY2M0ODAtYWQxMy00YTY0LThiYmMtNjdiZTBlZDg2NjZjIiwidCI6IjE3OWJkZGE4LWQ5NjQtNDNmZi1hZDNiLTY3NDE4NmEyZmEyOCIsImMiOjR9"> Ver App </a>
+#### Dashboard: <a href="https://app.powerbi.com/view?r=eyJrIjoiMmRiY2M0ODAtYWQxMy00YTY0LThiYmMtNjdiZTBlZDg2NjZjIiwidCI6IjE3OWJkZGE4LWQ5NjQtNDNmZi1hZDNiLTY3NDE4NmEyZmEyOCIsImMiOjR9"> Informes de control en el Perú </a>
+El Panel de Informes de control ha sido creado por el Secontrola.pe para realizar seguimiento a los informes de control en la modalidad "Servicio de control específico a hechos con presunta irregularidad" y su vinculación con las contrataciones, proyectos de inversión, vinculación política y más.
 
 <p align="center">
   <img width="600" src='img/dashboard.jpg'>
