@@ -51,11 +51,11 @@
 
 ### IV. Productos obtenidos
 
-#### Secontrola.pe
+#### Portal web: <a href="https://neracs.github.io/secontrola/"> Secontrola.pe </a>
 #### Buscador de informes de control 
-<br>
-Portal ciudadano para identificar y realizar de forma fácil y rápida el seguimiento de informes de control especifico y a funcionarios públicos vinculados a hechos con presuntas irregularidades contra el Estado peruano.<a href="https://neracs.github.io/secontrola/"> Ver Enlace </a> 
-<br>
+
+Portal ciudadano para identificar y realizar de forma fácil y rápida el seguimiento de informes de control especifico y a funcionarios públicos vinculados a hechos con presuntas irregularidades contra el Estado peruano.
+
 <p align="center">
   <img width="600" src='img/secontrolape.jpg'>
 </p>
