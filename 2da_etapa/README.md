@@ -48,3 +48,17 @@
   <li><em>"4_informes_control_2019_2022.csv"</em>: consolidado de la información de los informes de control con las personas con presuntos actos irregulares hacia el estado.</li>
  </ul>
 </ol>
+
+### Productos obtenidos
+
+#### Secontrola.pe
+Buscador de informes de control
+<br>
+Portal ciudadano para identificar y realizar de forma fácil y rápida el seguimiento de informes de control especifico y a funcionarios públicos vinculados a hechos con presuntas irregularidades contra el Estado peruano.
+
+<p align="center">
+  <img width="600" src='img/secontrolape.png'>
+</p>
+
+
+
