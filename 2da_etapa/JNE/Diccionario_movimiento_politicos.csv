@@ -1,0 +1,9 @@
+DICCIONARIO DE DATOS - DATASET JNE,,
+ATRIBUTO (NOMBRE DEL CAMPO),CAMPO (DESCRIPCI‡N DEL CAMPO),TIPO CAMPO (TIPO DE DATOS)
+partido,Partido de afiliaci¢n,Texto
+region,Region o departamento,Texto
+dni,Documento Nacional de Identidad,Texto
+ape_pat,Apellido Paterno,Texto
+ape_mat,Apellido Materno,Texto
+nombres,Nombres,Texto
+afiliado,Estadi de afiliado,Texto
