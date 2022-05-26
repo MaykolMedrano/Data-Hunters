@@ -51,14 +51,30 @@
 
 ### IV. Productos obtenidos
 
-** Secontrola.pe**
-** Buscador de informes de control **
-<br>
-Portal ciudadano para identificar y realizar de forma fácil y rápida el seguimiento de informes de control especifico y a funcionarios públicos vinculados a hechos con presuntas irregularidades contra el Estado peruano.
+<section class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
+        <div class="rad-showcase__bg">
+            <img src="img/secontrolape.jpg" alt="" width="100" height="100">
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-8 col-lg-7 col-xl-6">
+                    <h1 class="display-1">
+                        Secontrola.pe
+                        <br />
+                        <span>Portal de presuntos casos de corrupción</span>
+                    </h1>
+                    <p class="lead">
+                        Portal ciudadano para identificar y realizar de forma fácil y rápida el seguimiento de informes de control especifico y a funcionarios públicos vinculados a hechos cons presuntas irregularidades contra el Estado peruano.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="rad-showcase__bg rad-showcase__bg--mobile">
+            <img class="lozad img-responsive" src="img/secontrolape.jpg" alt="" />
+        </div>
+</section>
 
-<p align="center">
-  <img width="600" src='img/secontrolape.jpg'>
-</p>
+
 
 
 
