@@ -1,5 +1,9 @@
 Copyright 2022 Data Hunters
 
+47946279 Jelsin Stalin Palomino Huaytapuma
+46879818 Annagrazia Fiorella Cotrina Pegorari
+71293257 Juliana Margaret Rojas Guillen
+76123953 Maykol Medrano Ccahuana
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of 
 this software and associated documentation files (the "Software"), to deal in the 
